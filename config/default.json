@@ -1,0 +1,6 @@
+{
+    "port" : 5500,
+    "mongoURI": "mongodb+srv://test:test123@cluster0.dd9pn.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "serhii kovalenko mern application",
+    "baseUrl": "http://localhost:5500"
+}
